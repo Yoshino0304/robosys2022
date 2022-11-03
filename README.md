@@ -3,7 +3,7 @@
 授業での学習
 
 # plusコマンド
-![test](https://github.com/yoshinotaiki/robosys202x/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/Yoshino0304/robosys202x/actions/workflows/test.yml/badge.svg)
 
 
 
