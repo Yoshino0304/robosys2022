@@ -1,10 +1,10 @@
-# robosys2022
-* ロボットシステム学の練習リポジトリ
-* 授業での学習内容が含まれています.
-
 # plusコマンド
 ![test](https://github.com/Yoshino0304/robosys2022/actions/workflows/test.yml/badge.svg)
 入力した値を足し算するプログラムです.
+
+# robosys2022
+* ロボットシステム学の練習リポジトリ
+* 授業での学習内容が含まれています.
 
 # 動作手順
 * Ubuntu 22.04.1 LTSをインストールする.
