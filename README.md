@@ -8,7 +8,7 @@
 
 # 動作手順
 1. GithubのサイトでcodeからHTTPSへ移動し, URLをコピーする. 
-1. ``` $ https://github.com/Yoshino0304/robosys2022.git```
+1. ``` $ git clone https://github.com/Yoshino0304/robosys2022.git```
 1. 実行する. 
     
 * 実行例1:数字のみのファイルを作成する方法.
