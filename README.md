@@ -9,18 +9,18 @@
 # 動作手順
 * 1 Ubuntu 22.04.1 LTSをインストールする.
 * 2 GithubのサイトでcodeからSSHへ移動し, SSH keyをコピーする. 
-* 3 ,,, $ git clone git@github.com:Yoshino0304/robosys2022.git,,,
+* 3 ``` $ git clone git@github.com:Yoshino0304/robosys2022.git```
 * 4 実行する. 
     
 * 実行例1:数字のみのファイルを作成する方法.
 
-   $ seq 5 > <ファイル名>  などでファイルを作成する.
+   ```$ seq 5 > <ファイル名>```  などでファイルを作成する.
 
-   $ ./plus < <ファイル名>で実行する.
+   ```$ ./plus < <ファイル名>```で実行する.
 
 * 実行例2:ファイルを作成しない方法.
 
-   $ seq 5 | ./plus  で実行する. 　
+   ```$ seq 5 | ./plus```  で実行する. 　
 
 # 必要なソフトウェア
 * Python 3.7～3.10
