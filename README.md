@@ -7,10 +7,9 @@
 入力した値を足し算するプログラムです.
 
 # 動作手順
-* 1 Ubuntu 22.04.1 LTSをインストールする.
-* 2 GithubのサイトでcodeからSSHへ移動し, SSH keyをコピーする. 
-* 3 ``` $ git clone git@github.com:Yoshino0304/robosys2022.git```
-* 4 実行する. 
+* 1. GithubのサイトでcodeからSSHへ移動し, SSH keyをコピーする. 
+* 1. ``` $ git clone git@github.com:Yoshino0304/robosys2022.git```
+* 1. 実行する. 
     
 * 実行例1:数字のみのファイルを作成する方法.
 
